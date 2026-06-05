@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Manoj Kumar Aduvala 👋
 
-<!--
-**Manoj-aduvala/Manoj-Aduvala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on Backend Development, AI-Augmented Engineering, and Intelligent Automation.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend Development Enthusiast
+- AI-Powered Application Builder
+- Java | Python | SQL
+- Learning Spring Boot, Microservices, Cloud & Generative AI
+- Interested in FinTech, AI Systems and Scalable Software
+
+## Technologies
+
+### Languages
+- Java
+- Python
+- SQL
+
+### Backend
+- Spring Boot
+- REST APIs
+
+### Tools
+- Git
+- GitHub
+- Linux
+
+### AI
+- Prompt Engineering
+- Generative AI
+- AI-Assisted Development
+
+## Current Goals
+
+- Build production-ready backend applications
+- Build AI-powered projects
+- Master System Design
+- Contribute to Open Source
+
+## Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/manoj-kumar-aduvala
